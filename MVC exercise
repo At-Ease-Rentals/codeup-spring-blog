@@ -1,0 +1,18 @@
+Exercises
+Consider a Tic-tac-toe game built using an MVC pattern. What part of MVC do you think each of the following concerns fall under?
+
+Controller - logic for deciding if a given move has won the game
+Model - the total number of games won by a specific user
+View - the game board
+View - the ability to click a tile
+View - the name of a user
+Controller - code that defines that a user's current Tic-tac-toe game symbol (X or O) will be displayed to the right of
+their username
+Controller - directing a user to a high score page if they want to see high scores - Controller
+
+
+Consider a restaurant analogy for describing MVC. What part of MVC do you think best compares to each of the following aspects of a restaurant experience and why?
+Controller - the menu
+Controller/View  - the waiter
+Model  - the kitchen inventory
+Controller - the chef
